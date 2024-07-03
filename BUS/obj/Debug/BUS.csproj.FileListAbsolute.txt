@@ -1,0 +1,11 @@
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\bin\Debug\BUS.dll
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\bin\Debug\BUS.pdb
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\bin\Debug\DAO.dll
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\bin\Debug\DTO.dll
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\bin\Debug\DAO.pdb
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\bin\Debug\DTO.pdb
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\obj\Debug\BUS.dll
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\BUS\obj\Debug\BUS.pdb

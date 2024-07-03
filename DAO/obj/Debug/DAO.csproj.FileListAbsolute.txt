@@ -1,0 +1,9 @@
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\DAO\bin\Debug\DAO.dll
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\DAO\bin\Debug\DAO.pdb
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\DAO\bin\Debug\DTO.dll
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\DAO\bin\Debug\DTO.pdb
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\DAO\obj\Debug\DAO.dll
+D:\CNTT\ThucTap\QLTrungTamNgoaiNgu\RedundantEnglishVip\DAO\obj\Debug\DAO.pdb
